@@ -4,8 +4,8 @@ Tensorflow implementations for various Machine Learning algorithms
 **Models were implemented using Tensorflow 1.3. Create a conda environment using the .yml file in this repository**
 
 1. nn_mnist_tf.ipynb:
-   -Fully connected deep neural network model using MNIST dataset.
-   -Complete implementation using low-level TensorFlow API
+   - Fully connected deep neural network model using MNIST dataset.
+   - Complete implementation using low-level TensorFlow API
 
 2. mnist_cnn.ipynb
 Convolution neural network model using MNIST dataset.
